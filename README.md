@@ -23,8 +23,8 @@ This course covers a set of topics in machine learning and artificial intelligen
 ### Lecture Notes and Texts
 - Lecture slides and notes will be posted on Canvas. It is recommended that students take notes during class for additional details.
 - **Main Texts:**
-  - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J., "An Introduction to Statistical Learning: with Applications in Python", Springer, 2023. [E-book](https://www.statlearning.com/)
-  - Hastie, T., Tibshirani, R., Friedman, J., "The Elements of Statistical Learning: Data Mining, Inference, and Prediction", Second Edition, Springer, 2009. [E-book](https://goo.gl/xgr63x)
+  - James, G., Witten, D., Hastie, T., Tibshirani, R., Taylor, J., "An **I**ntroduction to **S**tatistical **L**earning: with Applications in Python", Springer, 2023. [E-book](https://www.statlearning.com/)
+  - Hastie, T., Tibshirani, R., Friedman, J., "The **E**lements of **S**tatistical **L**earning: Data Mining, Inference, and Prediction", Second Edition, Springer, 2009. [E-book](https://goo.gl/xgr63x)
 
 ### Additional (Optional) Readings
 - Bishop, C., "Pattern Recognition and Machine Learning", Springer, 2006. [URL](https://goo.gl/56GFVv)
