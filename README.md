@@ -56,8 +56,12 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | Classification methods like logistic regression, LDA, QDA | ISL.4, ESL.4 |
 | Theory Session 2: Bootstrapping, Complexity (VC dimension), ... | ISL.5, ESL.7 |
 | Model validation and selection techniques | ISL.5, ESL.7, 8, 10 |
-|  | ISL. |
-|  | ISL. |
+| Model Selection: Greedy Approaches, Regularization, Ridge, Lasso  | ISL.6, ESL.7, 10 |
+| Singular Value Decomposition, PCA, PCR | ISL6, 10 |
+| Nonlinear learning modules, neural networks, deep learning | ESL.11 |
+| Tree-based methods (random forests, decision trees, ...) | ISL.8, ESL.9 |
+| Intro to Deep GANs & Unsupervised learning (PCA, K-means, ...) | ISL.10 |
+| Final presentations (all groups) | - |
 
 ### Lecture Video
 | Date | Passcode | Topic |
