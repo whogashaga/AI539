@@ -36,19 +36,29 @@ This course covers a set of topics in machine learning and artificial intelligen
 - **Final Project:** 35%
 - **Attendance:** 5%
 - **Final Grade Conversion:**
-  - A: ≥ 93, A-: ≥ 90, B+: ≥ 87, B: ≥ 84, B-: ≥ 80, C+: ≥ 77, C: ≥ 74, C-: ≥ 70, D+: ≥ 67, D: ≥ 64, D-: ≥ 61, F: < 60
+  - | A | A- | B+ | B | B- | C+ | C | C- |
+    | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+    | ≥ 93 | ≥ 90 | ≥ 87 | ≥ 84 | ≥ 80 | ≥ 77 | ≥ 74 | ≥ 70 |
 
-### Course Policies
-- Homework is assigned weekly or biweekly and must be submitted online by the specified deadlines.
-- Late homework is not accepted.
-- Academic integrity is strictly enforced according to the Oregon State University Honor Code. [University Code of Conduct](https://studentlife.oregonstate.edu/pre-student-conduct-community-standards)
+### Homework
+Homework will be assigned on a weekly or biweekly basis (more assignments at the beginning of the term). Homework will be turned in on the date/time specified on Canvas. **All HWs are submitted online.** <br>
+**Late homework is not accepted** and will receive zero credit. You should start working on each homework early, that way you will have enough time to ask questions in the class before the due date.<br>
+Each student must write up and turn in their own solutions. While discussing the home- work problems among the students is encouraged, students copying from their classmates or from any other resources will receive a zero score.
+Effectively, homework is worth much more than 25% of your grade. It is extremely unlikely that ones does well on the exam without putting enough effort into the homework.
 
 ### Lecture Outline
-- **Topics Covered:**
-  - Introduction to learning theory and fundamental notions
-  - Linear regression and extensions
-  - Classification methods like logistic regression, LDA, QDA
-  - Model validation and selection techniques
-  - Advanced topics such as Singular Value Decomposition, PCA, and deep learning
-  - Tree-based methods and introduction to Deep GANs and unsupervised learning techniques
-  - Final presentations
+| Topic | Reading |
+| - | - |
+| Introduction to learning theory and fundamental notions | ISL.1-2 |
+| Linear regression and extensions | ISL.3, ESL.3 |
+| Theory Session 1: Maximum Likelihood, Optimization, Gradient Descent, Convexity | - |
+| Classification methods like logistic regression, LDA, QDA | ISL.4, ESL.4 |
+| Theory Session 2: Bootstrapping, Complexity (VC dimension), ... | ISL.5, ESL.7 |
+| Model validation and selection techniques | ISL.5, ESL.7, 8, 10 |
+|  | ISL. |
+|  | ISL. |
+
+### Lecture Video
+| Date | Passcode | Topic |
+| - | - | - |
+| Apr.3 2024 | .d@ky2@U | |
