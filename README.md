@@ -36,9 +36,10 @@ This course covers a set of topics in machine learning and artificial intelligen
 - **Final Project:** 35%
 - **Attendance:** 5%
 - **Final Grade Conversion:**
-  - | A | A- | B+ | B | B- | C+ | C | C- |
-    | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-    | ≥ 93 | ≥ 90 | ≥ 87 | ≥ 84 | ≥ 80 | ≥ 77 | ≥ 74 | ≥ 70 |
+
+  | A | A- | B+ | B | B- | C+ | C | C- |
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | ≥ 93 | ≥ 90 | ≥ 87 | ≥ 84 | ≥ 80 | ≥ 77 | ≥ 74 | ≥ 70 |
 
 ### Homework
 Homework will be assigned on a weekly or biweekly basis (more assignments at the beginning of the term). Homework will be turned in on the date/time specified on Canvas. **All HWs are submitted online.** <br>
@@ -61,4 +62,12 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 ### Lecture Video
 | Date | Passcode | Topic |
 | - | - | - |
-| Apr.3 2024 | .d@ky2@U | |
+| [Apr.3 2024](https://oregonstate.zoom.us/rec/share/6yNGpLQ2sflQ9bi4wefIHLyox2mnlmrLl2DbIqsVscmWjt22J2AkDAXKOezqOnB5.sRqjfqwghzisVI9R) | .d@ky2@U | Introduction of Machine Learning |
+| [Apr.8 2024](https://oregonstate.zoom.us/rec/share/AfEQGDEQ1VdbLPGeFNwOSm8Pp9U4qJEwdEkf6QcCoASltZ--sH8GLzhxBGxbvEzK.OZ0EYsLfR9vdkN_8) | @6J94s?P | Linear Regression |
+| [Apr.10 2024]() |  | Multiple Linear Regression |
+| [Apr.15 2024]() |  |  |
+| [Apr.17 2024]() |  |  |
+| [Apr.22 2024]() |  |  |
+| [Apr.24 2024]() |  |  |
+| [Apr.29 2024]() |  |  |
+
