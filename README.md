@@ -69,7 +69,7 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | [Apr.3 2024](https://oregonstate.zoom.us/rec/share/6yNGpLQ2sflQ9bi4wefIHLyox2mnlmrLl2DbIqsVscmWjt22J2AkDAXKOezqOnB5.sRqjfqwghzisVI9R) | .d@ky2@U | Introduction of Machine Learning |
 | [Apr.8 2024](https://oregonstate.zoom.us/rec/share/AfEQGDEQ1VdbLPGeFNwOSm8Pp9U4qJEwdEkf6QcCoASltZ--sH8GLzhxBGxbvEzK.OZ0EYsLfR9vdkN_8) | @6J94s?P | Hypothesis Testing and Linear Regression |
 | [Apr.10 2024](https://oregonstate.zoom.us/rec/share/9djbE-uw6itqXm3dG_1fWHKQ5L4N7j2TScwEKwmkBgmMuNcaQNyPC442BMLgzAFy.i5H1yCVlzZJCN2TL) | GfPE=7B9 | Multiple Linear Regression |
-| [Apr.15 2024]() |  | Sampling Distribution & Gradient Descent |
+| [Apr.15 2024](https://oregonstate.zoom.us/rec/share/6hQH-GHtnyBjL-kcRIhJagUqaxkk6JYwiVWu0G5yOJP7Buls0CCTg4RBE0_No5y6.r7T5ESnhpnQsagJm) | 6$K6SyK7 | Sampling Distribution & Gradient Descent |
 | [Apr.17 2024](https://oregonstate.zoom.us/rec/share/fU_wGBhR6cqEqvMKuVgZ7SCu5_iIk3ciFLzmma7YGcq1tcBorwb3oaoxYZF-JnEe.d-vxj9OB0l2Me6My) | s98#r#v. | GD with Momentum and Convex Function |
 | [Apr.22 2024]() |  |  |
 | [Apr.24 2024]() |  |  |
