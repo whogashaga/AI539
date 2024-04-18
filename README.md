@@ -14,8 +14,8 @@ This course covers a set of topics in machine learning and artificial intelligen
 ### Course Information
 - **Location:** Room 320, Bexell Hall
 - **Class Days:** Mondays and Wednesdays
-- **Website:** Canvas (https://canvas.oregonstate.edu/)
-- **Forum:** Ed-Discussion (https://edstem.org/us/courses/57825/discussion/)
+- **Website:** [Canvas](https://canvas.oregonstate.edu/courses/1954644)
+- **Forum:** [Ed-Discussion](https://edstem.org/us/courses/57825/discussion/)
 - **Teaching Assistant:** TBA
 - **Prerequisites:** Previous course in probability and statistics, familiarity with computer programming, linear algebra, calculus
 - **Software:** Python, MATLAB
