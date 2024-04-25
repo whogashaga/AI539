@@ -1,34 +1,33 @@
 close all;
 clear all;
 
-n = [1 2 3 4 5];
-a = linspace(.2,.4,5);
-Alpha = meshgrid(a, a);
-
-b  = linspace(.1,.2,5);
-Beta = meshgrid(b, b);
-
 x = [.30753, .56678, -.25177, .37243, .26375];
-L = zeros(1, 5);
+n = 5;
 
-%disp(alpha);
-%disp(beta);
+% create a grid of points for α, β
+a = linspace(.2,.4,50);
+b = linspace(.1,.2,50);
+[alpha_grid, beta_grid] = meshgrid(a, b);
 
-for i = 1:5
+L = zeros(1, n);
+disp(size(alpha_grid, 1));
+disp(size(alpha_grid, 2));
 
-    alpha = Alpha(i);
-    beta = Beta(i);
-    ML = 0;
-
-    for j = 1:5
-       ML = ML - log(exp(-(x(i)-alpha(i))/beta(i)) / beta(i) * (1 + exp(-(x(i)-alpha(i))/beta(i))).^2);
+% along with row number
+for i = 1:size(alpha_grid, 1)
+    % along with column number
+    for j = 1:size(alpha_grid, 2)
+        alpha = alpha_grid(i, j);
+        beta = beta_grid(i, j);
+        % calculate f(x|α,β) for each x value
+        f_x = exp(-(x - alpha) ./ beta) ./ (beta * (1 + exp(-(x - alpha) ./ beta)).^2);
+        % calculate L(α, β)
+        L(i, j) = -log(prod(f_x));
     end
-
-    L(i) = ML; 
 end
 
 subplot(121);
-surf(Alpha, Beta, L);
-xlabel('\alpha');
-ylabel('\beta');
-
+surf(alpha_grid, beta_grid, L);
+xlabel('α');
+ylabel('β');
+zlabel('L(α, β)');
