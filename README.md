@@ -75,4 +75,5 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | [Apr.24 2024](https://oregonstate.zoom.us/rec/share/Sc6WZUfzc8pyda5jy0i1prJ1NyXYY9y_0mBZS0JiEqnZI-yE0a_g1QOsq8dG59ES.ezHUMZHHRZhqmfGd) | P?n75XC* | LDA/QDA & Bootstrap |
 | [Apr.29 2024](https://oregonstate.zoom.us/rec/share/QNKjTbYnFwOdDz9cWgAASs6PlqMUhK-SQ-mYB3Pd_hZmnt9PmpCC7pFP2-DgwccE.C0r9CiMf6e0No7qA) | x4?RkQhn | Boostrap & Cross Validation |
 | [May.1 2024](https://oregonstate.zoom.us/rec/share/Vh-7eTgfHHK6r4UDQzwVutHVb20vXUwB70D1V0jlnZVQz3TTzDuN0_2RYKcm29N_.SO40yweQml4gEwve) | G3&Try!+ | Cross Validation & Adjusting |
+| [May.6 2024](https://oregonstate.zoom.us/rec/share/USpHSIrgGevC-BpLQWi5T18UafBR68gfMcP9YurwgH81JtpIueMo8GiJksYWEkvN.aIqwU8Ne7f2TJp7S) | EGo$W%8Y | Ridge Regression & LASSO |
 
