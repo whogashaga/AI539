@@ -65,7 +65,7 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 
 ### Lecture Video
 | Date | Passcode | Topic |
-| - | - | - |
+| - | :-: | - |
 | [Apr.3 2024](https://oregonstate.zoom.us/rec/share/6yNGpLQ2sflQ9bi4wefIHLyox2mnlmrLl2DbIqsVscmWjt22J2AkDAXKOezqOnB5.sRqjfqwghzisVI9R) | .d@ky2@U | Introduction of Machine Learning |
 | [Apr.8 2024](https://oregonstate.zoom.us/rec/share/AfEQGDEQ1VdbLPGeFNwOSm8Pp9U4qJEwdEkf6QcCoASltZ--sH8GLzhxBGxbvEzK.OZ0EYsLfR9vdkN_8) | @6J94s?P | Hypothesis Testing and Linear Regression |
 | [Apr.10 2024](https://oregonstate.zoom.us/rec/share/9djbE-uw6itqXm3dG_1fWHKQ5L4N7j2TScwEKwmkBgmMuNcaQNyPC442BMLgzAFy.i5H1yCVlzZJCN2TL) | GfPE=7B9 | Multiple Linear Regression |
@@ -76,6 +76,6 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | [Apr.29 2024](https://oregonstate.zoom.us/rec/share/QNKjTbYnFwOdDz9cWgAASs6PlqMUhK-SQ-mYB3Pd_hZmnt9PmpCC7pFP2-DgwccE.C0r9CiMf6e0No7qA) | x4?RkQhn | Boostrap & Cross Validation |
 | [May.1 2024](https://oregonstate.zoom.us/rec/share/Vh-7eTgfHHK6r4UDQzwVutHVb20vXUwB70D1V0jlnZVQz3TTzDuN0_2RYKcm29N_.SO40yweQml4gEwve) | G3&Try!+ | Cross Validation & Adjusting |
 | [May.6 2024](https://oregonstate.zoom.us/rec/share/USpHSIrgGevC-BpLQWi5T18UafBR68gfMcP9YurwgH81JtpIueMo8GiJksYWEkvN.aIqwU8Ne7f2TJp7S) | EGo$W%8Y | Ridge Regression & LASSO |
-| May.8 2024 | - | Midterm |
+| May.8 2024 | - | ***Midterm*** |
 | [May.13 2024](https://oregonstate.zoom.us/rec/share/qKBERbfOhcI_Hc6OkTDF99SGaM-PFczBe5rtfqgCxNeFKdwC2Lftn5IiuPU5gKBs.87Mg3MWzJr3mYB4A) | $23f=LhV | Intodution of Neural Networks & Deep Learning |
 
