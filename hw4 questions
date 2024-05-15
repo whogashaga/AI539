@@ -5,7 +5,9 @@
 . For "Classification" validation, is it the same way? (MSE)
 . LR got the minimum MSE, is that correct?
 
-. Why declare "Xs"? For the data standardization?
-. what does "soln" stand for?
-. How to know lambda is small or large?
-. What is "Pipeline" model?
+
+. Do we have to split the data into training and test set for Ridge and LASSO?
+. For the small lambda and large lambda 
+  just to show examples of test error from different lambdas?
+. For Ridge and LASSO, Using MSE the best lambda?
+
