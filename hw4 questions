@@ -1,0 +1,11 @@
+. For Q1f, the result from equation (3) is totally different. How come?
+
+. For Q2, I just take the average of those test scores?
+. Why is the size of cv_error 5?
+. For "Classification" validation, is it the same way? (MSE)
+. LR got the minimum MSE, is that correct?
+
+. Why declare "Xs"? For the data standardization?
+. what does "soln" stand for?
+. How to know lambda is small or large?
+. What is "Pipeline" model?
