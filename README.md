@@ -78,4 +78,4 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | [May.6 2024](https://oregonstate.zoom.us/rec/share/USpHSIrgGevC-BpLQWi5T18UafBR68gfMcP9YurwgH81JtpIueMo8GiJksYWEkvN.aIqwU8Ne7f2TJp7S) | EGo$W%8Y | Ridge Regression & LASSO |
 | May.8 2024 | - | ***Midterm*** |
 | [May.13 2024](https://oregonstate.zoom.us/rec/share/qKBERbfOhcI_Hc6OkTDF99SGaM-PFczBe5rtfqgCxNeFKdwC2Lftn5IiuPU5gKBs.87Mg3MWzJr3mYB4A) | $23f=LhV | Intodution of Neural Networks & Deep Learning |
-
+| [May.15 2024](https://oregonstate.zoom.us/rec/share/d-KqM_GPUSXVrgOZyOHIP7eB4q1OpzqsTjpDi24WrLbDhPVNKo6XIatDH-mszvWu.AdHYPbbq1ccwF-ud) | $.W8gNZU | Stochastic Gradient Descent |
