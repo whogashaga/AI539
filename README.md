@@ -79,3 +79,5 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | May.8 2024 | - | ***Midterm*** |
 | [May.13 2024](https://oregonstate.zoom.us/rec/share/qKBERbfOhcI_Hc6OkTDF99SGaM-PFczBe5rtfqgCxNeFKdwC2Lftn5IiuPU5gKBs.87Mg3MWzJr3mYB4A) | $23f=LhV | Intodution of Neural Networks & Deep Learning |
 | [May.15 2024](https://oregonstate.zoom.us/rec/share/d-KqM_GPUSXVrgOZyOHIP7eB4q1OpzqsTjpDi24WrLbDhPVNKo6XIatDH-mszvWu.AdHYPbbq1ccwF-ud) | $.W8gNZU | Stochastic Gradient Descent |
+| [May.20 2024](https://oregonstate.zoom.us/rec/share/L4BDlbT1Ee1M_p08LtatNl8jtWBC6LEUOxzQlhTIeZUIvSCQcKQZDkzVoyF9uFs4.Tbi95TNgQ5G3_Goq) | .5J3V^?T | CNN & RNN |
+| [May.22 2024](https://oregonstate.zoom.us/rec/share/R01gnxlvnLWOiEppcwLGMDZNCPjWxXxqAlC-XMU3-_t5ArcUeh6UB1DjlH31P2Om.FtAm0XjrdygXnw-2) | QLz+aF7a | Decision Tree, Bagging, Random Rorest |
