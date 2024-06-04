@@ -78,7 +78,6 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | [May.6 2024](https://oregonstate.zoom.us/rec/share/USpHSIrgGevC-BpLQWi5T18UafBR68gfMcP9YurwgH81JtpIueMo8GiJksYWEkvN.aIqwU8Ne7f2TJp7S) | EGo$W%8Y | Ridge Regression & LASSO |
 | May.8 2024 | - | ***Midterm*** |
 | [May.13 2024](https://oregonstate.zoom.us/rec/share/qKBERbfOhcI_Hc6OkTDF99SGaM-PFczBe5rtfqgCxNeFKdwC2Lftn5IiuPU5gKBs.87Mg3MWzJr3mYB4A) | $23f=LhV | Intodution of Neural Networks & Deep Learning |
-| [May.13 2024](https://oregonstate.zoom.us/rec/share/qKBERbfOhcI_Hc6OkTDF99SGaM-PFczBe5rtfqgCxNeFKdwC2Lftn5IiuPU5gKBs.87Mg3MWzJr3mYB4A) | $23f=LhV | Intodution of Neural Networks & Deep Learning |
 | [May.20 2024](https://oregonstate.zoom.us/rec/share/L4BDlbT1Ee1M_p08LtatNl8jtWBC6LEUOxzQlhTIeZUIvSCQcKQZDkzVoyF9uFs4.Tbi95TNgQ5G3_Goq) | .5J3V^?T | CNN & RNN |
 | [May.22 2024](https://oregonstate.zoom.us/rec/share/R01gnxlvnLWOiEppcwLGMDZNCPjWxXxqAlC-XMU3-_t5ArcUeh6UB1DjlH31P2Om.FtAm0XjrdygXnw-2) | QLz+aF7a | Decision Tree, Bagging, Random Rorest |
 | [May.29 2024](https://oregonstate.zoom.us/rec/share/LJdT2Vl7uy8-INQWJubfHw67pbcT57vhsW285jssnC2JCRm48D3_4kD2pqFi2LhV.SBTZpgyArUt2c9Jx) | SPro!55p | Unsupervised Learning |
