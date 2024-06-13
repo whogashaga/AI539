@@ -82,3 +82,4 @@ Effectively, homework is worth much more than 25% of your grade. It is extremely
 | [May.22 2024](https://oregonstate.zoom.us/rec/share/R01gnxlvnLWOiEppcwLGMDZNCPjWxXxqAlC-XMU3-_t5ArcUeh6UB1DjlH31P2Om.FtAm0XjrdygXnw-2) | QLz+aF7a | Decision Tree, Bagging, Random Rorest |
 | [May.29 2024](https://oregonstate.zoom.us/rec/share/LJdT2Vl7uy8-INQWJubfHw67pbcT57vhsW285jssnC2JCRm48D3_4kD2pqFi2LhV.SBTZpgyArUt2c9Jx) | SPro!55p | Unsupervised Learning |
 | [Jun.3 2024](https://oregonstate.zoom.us/rec/share/fwi8cOdnqtrSE1kgWkrQHFKAhokBrxRuvop0QVucS_4fBKVbVe7388GPd3rrju5o.549HzB_NXJHgUaJb) | qQ4#tbu^ | Principal Component Analysis, SVD |
+| [Jun.5 2024](https://oregonstate.zoom.us/rec/share/JAmkugBexMNrEOq3cJejDowIcq2Hq4PD0cV_eRbeKhM2BnoOOJDv9OkL-5-t6ni7.FpS2Szfs7RzANVst) | #?qUtG3% | The final Presentation |
